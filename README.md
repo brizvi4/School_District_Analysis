@@ -54,7 +54,12 @@ In order to differentiate between the two results, I added a 'new' to the names 
 
 ## Summary
 
+Following are the four changes which can be clearly seen from the analysis:
 
+- For district_summary_df, Average Math Score, % Passing Math, % Passing Reading and % Overall Passing decreased a bit while Average Reading Score remained same
+- For the school summary tables, Average Math Score, % Passing Math, % Passing Reading and % Overall Passing decreased while Average Reading Score increased a bit
+- One  change which can be seen in math and reading scores by grade is that ninth grade values for THS have been replaces by NaNs.
+- For the spending ranges, only a very minute difference is seen and that too only when the columns are not formatted. After formatting the columns, I get the same values for   both tables. 
 
 
 
