@@ -1,1 +1,5 @@
-# School_District_Analysis
+# School District Analysis
+
+## Overview of the school district analysis
+
+For this analysis, I was asked by Maria to help her in analysing school district data. Basically, I had to extract meaningful information from the data that would help the school board in making informed decisions regarding funds allotment. The data contained information about 39,170 students and 15 schools. I used Pandas Library in Pyhton to perform my abalysis and calculations. I generated school district summary, high and low performing schools, average math and reading scores by grade, grouped scores by school spending per studen and grouped scores by school size. Later, Maria was iformed by the school board that for 9th grade students of Tomsas High School there is evidence which suggests academic dishonesty. Thus, I was asked to replace all math and reading score values for those particular students with NaNs. After doing that, I performed all th poreviously mentioned calculations again. After doing this, I was aked to write a report on how these changes affected the overall analysis. 
